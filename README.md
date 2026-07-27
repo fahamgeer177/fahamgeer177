@@ -183,7 +183,7 @@ Redesigned the pipeline order (classify-then-segment), reconciled two incompatib
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=fahamgeer177&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fahamgeer177&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+<img height="165" src="https://streak-stats.demolab.com/?user=fahamgeer177&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
 
 </div>
 
